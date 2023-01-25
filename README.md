@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <br><br>
-<h2 align="center" dir="auto">🌱Potfolio🌱</h2>
+<h2 align="center" dir="auto">🌱Portfolio🌱</h2>
 <a href="https://succulent-trampoline-c60.notion.site/a71e3775b74840d7a139d407c843212f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 <br><br>
